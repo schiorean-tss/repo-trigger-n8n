@@ -1,3 +1,3 @@
 # repo-trigger-n8n
 
-wip 7
+wip 8
